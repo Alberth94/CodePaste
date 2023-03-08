@@ -19,8 +19,6 @@ function NavBar(props) {
     });
   }
 
-  
-
   return (
     <Navbar className="my-navbar" bg="dark" variant="dark" expand="lg">
       <Container>
