@@ -1,0 +1,42 @@
+.form-signup {
+  width: 100%;
+  max-width: 400px;
+  margin-bottom: 150px;
+  display: flex;
+  flex-direction: column;
+  }
+  
+  .form-label {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    color: rgb(226, 225, 225);
+  }
+  
+  .form-control {
+    margin-bottom: 1rem;
+  }
+  
+  .error-message {
+    color: #f30000;
+    margin-top: 0.5rem;
+  }
+
+  .join-us {
+    background-image: url("C:\Users\Albert\Desktop\pastebin-clone\pastebinpic/Login6.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-left: auto;
+  }
+
+  .singup-form-button {
+    width: 400px;
+    margin-top: 1rem;
+    align-self: center;
+  }
+  
+ 
