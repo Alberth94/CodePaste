@@ -1,0 +1,26 @@
+.my-navbar {
+    background-color: #343a40;
+  }
+  
+  .my-navbar .nav-link {
+    color: #fff;
+  }
+  
+  .my-navbar .dropdown-toggle {
+    color: #fff;
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+  }
+  
+  .my-navbar .dropdown-menu {
+    background-color: #343a40;
+  }
+  
+  .my-navbar .dropdown-item {
+    color: #fff;
+  }
+  
+  .my-navbar .dropdown-item:hover {
+    color: #17a2b8;
+    background-color: #495057;
+  }
